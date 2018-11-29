@@ -6,5 +6,7 @@ Programın özelliği bizim labdaki kodlarımızın kullandığı isimler ile kl
 Kodun sizin bilgisayarda çalışabilmesi için mcverter.exe konumunu DCMconverter değişkenine yazmalısın.
 
 Kullanım şekilleri:
-Hubal_converter(DICOM_klasoru, Niftiler_nereye);
-Hubal_converter;
+
+* Hubal_converter(DICOM_klasoru, Niftiler_nereye);
+
+* Hubal_converter;
