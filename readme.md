@@ -7,5 +7,3 @@ Kodun sizin bilgisayarda çalışabilmesi için mcverter.exe konumunu DCMconvert
 Kullanım şekilleri:
 # Hubal_converter(DICOM_klasoru, Niftiler_nereye);
 # Hubal_converter;
-
-
