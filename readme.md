@@ -1,11 +1,5 @@
-# Kişisel İş için Öğrenim Hedefleri
+# Kişisel İş içindekiler
 
-* Network activities
-* Remotes
-* Fetch/push
-* Branches
-* Students repo
-* GitHub Classroom
-* Permissions
-* Exercises
-* Automated Testing
+* Hubal_converter
+Bu Matlab kodu ile mcverter kullanarak seçtiğiniz bir konumdaki DICOM dosyalarınızı, Nifti dönüşümü yaparak gene sizin seçtiğiniz konuma yükler.
+Programın özelliği bizim labdaki kodlarımızın kullandığı isimler ile klasör yapısı üretmesidir. 
