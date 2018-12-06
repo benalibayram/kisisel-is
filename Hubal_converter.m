@@ -14,7 +14,7 @@ function [] = Hubal_converter(DICOM_klasoru, Niftiler_nereye)
 DCMconverter = 'D:\mri_tools\dicom_converter\mcverter.exe';
 parametreler = ' -f nifti -q -j -x -u --fnformat=%%PI_%%SN_%%PR ';
 % -f: Output format: fsl, spm, meta, nifti, analyze, or bv.
-% -q: quiet mode 
+% -q: quiet mode  
 % -j: Save each subject to a separate directory
 % -x: Save each series to a separate directory
 % -u: Use patient id instead of patient name for output file
