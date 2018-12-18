@@ -1,7 +1,9 @@
 
 function [] = Hubal_converter(DICOM_klasoru, Niftiler_nereye)
 % Kullaným þekilleri:
+% Eðer dicom dosyalarýnýn bulunduðu klasör ve hedef klasör yolu biliniyorsa
 % Hubal_converter(DICOM_klasoru, Niftiler_nereye);
+% Eðer arayüz ile klasörlerin yerleri belirtilecekse
 % Hubal_converter;
 %
 % Dicom klasöründeki tüm denekler dönüþtürülecek
